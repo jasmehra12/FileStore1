@@ -50,7 +50,7 @@ SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://i.ibb.co/8nLf0FSf/x.jpg
 
 #--------------------------------------------
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Cine_Fix\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n├/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Jas_Mehra>ᴊᴀs ᴍᴇʜʀᴀ</a></blockquote></b>"
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Jas_Mehra>ᴊᴀs ᴍᴇʜʀᴀ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/movie_flix_india>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n◈ Aᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Flix_Porm>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>n◈ ᴋᴅʀᴀᴍᴀ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Kdrama_Hindii_Dub>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Jas_Mehra>ᴊᴀs ᴍᴇʜʀᴀ</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Jas_Mehra>ᴊᴀs ᴍᴇʜʀᴀ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/movie_flix_india>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n◈ Aᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Flix_Porm>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n◈ ᴋᴅʀᴀᴍᴀ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Kdrama_Hindii_Dub>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Jas_Mehra>ᴊᴀs ᴍᴇʜʀᴀ</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<blockquote> ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
