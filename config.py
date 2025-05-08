@@ -93,7 +93,7 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 OWNER_TAG = os.environ.get("OWNER_TAG", "Cine_Fix")
 UPI_ID = os.environ.get("UPI_ID", "rameshbarot1990@oksbi")
 QR_PIC = os.environ.get("QR_PIC", "https://i.ibb.co/4xw30Md/x.jpg")
-SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Cine_Flix")
+SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Cine_Fix")
 #--------------------------------------------
 #Time and its price
 #7 Days
