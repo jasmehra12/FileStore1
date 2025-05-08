@@ -91,21 +91,21 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 #==========================(BUY PREMIUM)====================#
 
 OWNER_TAG = os.environ.get("OWNER_TAG", "Cine_Fix")
-UPI_ID = os.environ.get("UPI_ID", "jaskaranmehra@fam")
-QR_PIC = os.environ.get("QR_PIC", "https://i.ibb.co/r2XD1j60/x.jpg")
-SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Jas_Mehra")
+UPI_ID = os.environ.get("UPI_ID", "rameshbarot1990@oksbi")
+QR_PIC = os.environ.get("QR_PIC", "https://i.ibb.co/4xw30Md/x.jpg")
+SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Cine_Flix")
 #--------------------------------------------
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "70 rs")
+PRICE1 = os.environ.get("PRICE1", "29 rs")
 #1 Month
-PRICE2 = os.environ.get("PRICE2", "200 rs")
+PRICE2 = os.environ.get("PRICE2", "49 rs")
 #3 Month
-PRICE3 = os.environ.get("PRICE3", "400 rs")
+PRICE3 = os.environ.get("PRICE3", "120 rs")
 #6 Month
-PRICE4 = os.environ.get("PRICE4", "899 rs")
+PRICE4 = os.environ.get("PRICE4", "499 rs")
 #1 Year
-PRICE5 = os.environ.get("PRICE5", "1569 rs")
+PRICE5 = os.environ.get("PRICE5", "899 rs")
 
 #===================(END)========================#
 
